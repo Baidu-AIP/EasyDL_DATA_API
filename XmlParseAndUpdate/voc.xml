@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<annotation>
+    <folder>/Users/ruanshimin/Work/gitlab/xmlread</folder>
+    <filename>sample.jpg</filename>
+    <object>
+        <name>gemfield</name>
+        <bndbox>
+            <xmin>549</xmin>
+            <xmax>715</xmax>
+            <ymin>257</ymin>
+            <ymax>289</ymax>
+        </bndbox>
+    </object>
+    <object>
+        <name>civilnet</name>
+        <bndbox>
+            <xmin>842</xmin>
+            <xmax>1009</xmax>
+            <ymin>138</ymin>
+            <ymax>171</ymax>
+        </bndbox>
+    </object>
+</annotation>
