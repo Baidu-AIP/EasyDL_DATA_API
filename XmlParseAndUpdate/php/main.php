@@ -4,9 +4,9 @@
      * php -m 检查是否开启php curl扩展
      */
     # 填写网页上申请的appkey 如 $apiKey="g8eBUMSokVB1BHGmgxxxxxx"
-    $API_KEY =  "17wfWy3Fx4g3tKnMAtED7iWG";
+    $API_KEY =  "xxx";
     # 填写网页上申请的APP SECRET 如 $secretKey="94dc99566550d87f8fa8ece112xxxxx"
-    $SECRET_KEY = "cmbdyWn3ophc3k2ogLeGsnnGh8AmGOXU";
+    $SECRET_KEY = "xxx";
 
     $ADD_URL = "https://aip.baidubce.com/rpc/2.0/easydl/dataset/addentity";
 

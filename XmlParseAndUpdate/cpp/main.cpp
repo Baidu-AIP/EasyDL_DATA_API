@@ -13,8 +13,8 @@ using namespace nlohmann;
 #define TOKEN_URL "https://aip.baidubce.com/oauth/2.0/token"
 #define API_URL "https://aip.baidubce.com/rpc/2.0/easydl/dataset/addentity"
 
-#define AK "17wfWy3Fx4g3tKnMAtED7iWG"
-#define SK "cmbdyWn3ophc3k2ogLeGsnnGh8AmGOXU"
+#define AK "xxx"
+#define SK "xxx"
 
 template<class CharT, class Traits, class Allocator>
 std::basic_istream<CharT, Traits>& getall(std::basic_istream<CharT, Traits>& input,

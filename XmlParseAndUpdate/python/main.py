@@ -25,9 +25,9 @@ else:
 import ssl
 ssl._create_default_https_context = ssl._create_unverified_context
 
-API_KEY = '17wfWy3Fx4g3tKnMAtED7iWG'
+API_KEY = 'xxx'
 
-SECRET_KEY = 'cmbdyWn3ophc3k2ogLeGsnnGh8AmGOXU'
+SECRET_KEY = 'xxx'
 
 
 ADD_URL = "https://aip.baidubce.com/rpc/2.0/easydl/dataset/addentity"
